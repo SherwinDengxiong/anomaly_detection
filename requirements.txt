@@ -1,0 +1,59 @@
+# Align1D==2.2.0
+backcall==0.2.0
+certifi==2020.4.5.1
+# configparser==5.0.0
+#torch==1.5.1+cu101 torchvision==0.6.1+cu101
+cycler==0.10.0
+decorator==4.4.2
+future==0.18.2
+h5py==2.10.0
+imagecodecs
+imageio==2.8.0
+importlib-metadata==1.6.0
+ipdb==0.13.3
+ipython==7.15.0
+ipython-genutils==0.2.0
+jedi==0.17.1
+joblib==0.15.1
+Keras==1.1.0
+kiwisolver==1.2.0
+Mako==1.1.0
+MarkupSafe==1.1.1
+matplotlib==3.2.1
+networkx==2.4
+# numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1588605083040/work
+opencv-python==4.2.0.34
+pandas==1.0.4
+parso==0.7.0
+path==13.2.0
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow==7.1.2
+prompt-toolkit==3.0.5
+protobuf==3.12.2
+ptyprocess==0.6.0
+Pygments==2.6.1
+# pygpu==0.7.6
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2020.1
+PyWavelets==1.1.1
+PyYAML==5.3.1
+ruamel.yaml==0.16.10
+ruamel.yaml.clib==0.2.0
+scikit-image==0.17.2
+scikit-learn==0.23.0
+scipy==1.4.1
+seaborn==0.10.1
+# six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+sklearn==0.0
+tensorboardX==2.0
+terminaltables==3.1.0
+Theano==1.0.2
+threadpoolctl==2.0.0
+tifffile==2020.5.11
+tqdm==4.46.0
+traitlets==4.3.3
+wcwidth==0.2.5
+zipp==3.1.0
+
